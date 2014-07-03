@@ -11,7 +11,7 @@
 </head>
 <body>
  
-    <p>Content here. <a class="alert" href=#>Alert!</a></p>
+    <p>Content here.. <a class="alert" href=#>Alert!</a></p>
  
     <!-- JS dependencies -->
     <script src="jquery-1.8.3.min.js"></script>
