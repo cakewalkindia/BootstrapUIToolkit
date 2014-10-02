@@ -32,7 +32,7 @@
             $('#divSize').Button({ text: "Primary Button", id: "btn123", type: "primary", size: button.size.block });
 
         })
-        ////test
+        ////test again
     </script>
 </head>
 <body>
