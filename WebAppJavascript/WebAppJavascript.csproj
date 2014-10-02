@@ -98,6 +98,7 @@
     <Content Include="Shared\Common\EventsViewer.ascx" />
     <Content Include="Shared\resources\css\main.css" />
     <Content Include="Shared\resources\js\common.js" />
+    <Content Include="Test1.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
     <Content Include="WebForm2.aspx" />
@@ -126,6 +127,13 @@
     </Compile>
     <Compile Include="Shared\Common\EventsViewer.ascx.designer.cs">
       <DependentUpon>EventsViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Test1.aspx.cs">
+      <DependentUpon>Test1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Test1.aspx.designer.cs">
+      <DependentUpon>Test1.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
