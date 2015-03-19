@@ -40,9 +40,9 @@
             background: url(badges/badge3.png);
         }
 
-        .badge4 {
+        /*.badge4 {
             background: url(badges/badge4.png);
-        }
+        }*/
 
         .badge5 {
             background: url(badges/badge5.png);
