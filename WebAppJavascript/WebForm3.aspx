@@ -19,16 +19,16 @@
     private void BindData()
     {
         Store store = this.GridPanel1.GetStore();
-        
+
         store.DataSource = this.Data;
-        store.DataBind(); 
+        store.DataBind();
     }
 
     private object[] Data
     {
         get
         {
-            DateTime now = DateTime.Now;
+            //DateTime now = DateTime.Now;
 
             return new object[]
             {
